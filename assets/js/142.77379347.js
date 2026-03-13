@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[142],{448:function(t,e,n){"use strict";n.r(e);var s=n(6),o=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("vdex文件的引入是为了提升应用的安装和启动速度，而odex文件则是对vdex文件的进一步优化，以减少内存占用和启动时间")])])}),[],!1,null,null,null);e.default=o.exports}}]);
