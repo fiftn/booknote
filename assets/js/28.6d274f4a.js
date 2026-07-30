@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{333:function(t,n,s){"use strict";s.r(n);var o=s(6),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("可以理解成一个为了兼容平板而存在的嵌入在Activity中的UI片段，很显然，不是我要学的，略过")])])])}),[],!1,null,null,null);n.default=e.exports}}]);
