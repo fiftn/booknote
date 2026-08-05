@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{338:function(t,n,s){"use strict";s.r(n);var o=s(6),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("其实就是使用通知，调用摄像头、相册，播放视频、音频等等")])])])}),[],!1,null,null,null);n.default=e.exports}}]);
